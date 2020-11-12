@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "JOHN",
+    "edad": 30
+  },
+  {
+    "nombre": "JESSIE",
+    "edad": 28
+  },
+  {
+    "nombre": "JOHANNA",
+    "edad": 25
+  },
+  {
+    "nombre": "JOY",
+    "edad": 15
+  },
+  {
+    "nombre": "MARY",
+    "edad": 28
+  },
+  {
+    "nombre": "PETER",
+    "edad": 95
+  },
+  {
+    "nombre": "SEBASTIAN",
+    "edad": 50
+  },
+  {
+    "nombre": "ERIKA",
+    "edad": 27
+  },
+  {
+    "nombre": "PATRICK",
+    "edad": 40
+  },
+  {
+    "nombre": "SAMANTHA",
+    "edad": 60
+  }
+]
